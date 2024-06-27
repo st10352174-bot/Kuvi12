@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rrcqR1vvqplkafSo7/wDgIlDjNkcpCu/kCU0DYHvzP/zvtMPsZ8mPF2ZUpVqGZ6lOP+lgy9oCW7VbX0gARcohQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lab_services_student\\OneDrive\\Desktop\\PROGPOE_Part1\\PROGPOE_Part1\\PROGPOE_Part1\\PROGPOE_Part1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.netcore.platforms\\7.0.4\\microsoft.netcore.platforms.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
